@@ -1,6 +1,6 @@
 # Text Adventure Game
 
-![Game Logo](./res/jackfrost.jpg)
+![Game Logo](./adventure-video-game-logo-template_23-2147822369.png)
 
 ## Table of Contents
 <details>
